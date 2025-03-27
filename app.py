@@ -1,5 +1,5 @@
-# pip install agno sqlalchemy
-# pip install google-genai
+# pip install agno sqlalchemy google-genai
+# uv add agno sqlalchemy google-genai
 
 import json
 from agno.agent import Agent
